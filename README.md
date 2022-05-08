@@ -20,7 +20,7 @@ decisions.
 
 ## Results
 
-There were 7 Tableau worksheets built (vizzes) that were placed in a single story 
+There were 7 Tableau worksheets built (vizzes) that were placed in a single story (NYC Citibike Analysis).
 
 ### Checkout Times for Users
 
@@ -44,6 +44,12 @@ However, if you only filter on the 2nd hour, you will see that the trip duration
 This heatmap shows the checkout times by weekday and hour.  Darker shades show heaviest checkout on Thursday evenings
 between 5 and 6pm.  Monday thru Thursdays are light between 10 and 3, heavier in the morning at 8am and between 5 and 6pm.  As you get
 closer to the weekend checkout times seem to be spread across the day.
+
+### Trips by Gender
+
+The trips by gender across weekday and hour seem to have a similar trend across all genders.   It's a little tough to tell with 
+the unknown gender because the shading is so light.  But, one can see that the weekends (Fri-Sat) stagger checkouts throughout
+the day versus the weekdays where checkout times are highest in the mornings (8am) and in the evenings (5-6pm).
 
 ### Trips By Gender By Weekday
 
