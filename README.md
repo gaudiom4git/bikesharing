@@ -22,6 +22,8 @@ decisions.
 
 There were 7 Tableau worksheets built (vizzes) that were placed in a single story (NYC Citibike Analysis).
 
+* Check out [NYC Citibike Viz](https://public.tableau.com/app/profile/mae.gaudio/viz/CitiBikeTripAnalysis_16519359960670/TripsbyGender) 
+
 ### Checkout Times for Users
 
 This graph plots the number of bikes checked out and trip duration across each hour of the day.  There is a spike in the 0 hour which shows 
@@ -33,9 +35,8 @@ conversion on the seconds only.  You would have to incorporate the start date in
 
 ### Checkout Times by Gender
 
-When we break out the checkout times by gender, we see that there are more male riders than female and unknown riders.  
-Male and Female peaks at 5 or 6 minutes.  Both male and female riders seem to follow a similar curve which peaks at 5 or 6 minutes.  
-The unknown rider is much more flat and peaks between 7 and 25 minutes.
+When we break out the checkout times by gender, we see that there are more male riders than female and unknown riders.  Male and Female peaks at 5 or 6 minutes.  
+Both male and female riders seem to follow a similar curve which peaks at 5 or 6 minutes.  The unknown rider is much more flat and peaks between 7 and 25 minutes.
 
 However, if you only filter on the 2nd hour, you will see that the trip duration is more spreadout across all genders.
 
@@ -83,7 +84,7 @@ better sense on demand for this program.  Questions to ask would include:
 * How many bikes would we need at each station?
 
 
-* Check out [NYC Citibike Viz](https://public.tableau.com/app/profile/mae.gaudio/viz/CitiBikeTripAnalysis_16519359960670/TripsbyGender) 
+
 
 ## Summary
 
