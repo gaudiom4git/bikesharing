@@ -1,9 +1,50 @@
-# bikesharing
+# BikeSharing Analysis
 
 ## Overview
 
+One of the main objectives of Data Analytics to is to be able to tell a story by showing visualizations that provides answers
+to business questions.  This module asked students to analyze bike trip data from a NYC bike rental program to
+provide information to investors for a similar program in Des Moines, Iowa.
+
+The analysis required us to read data using Pandas and convert a tripduration field to a datetime data type to be used
+as a dimension for use in Tableau Visualizations. 
+
+Tableau is a non-coding tool that will take large amounts of data that students used to plot bike trip data points such as
+trip duration, bike checkout dates and times, and rider gender.  Tableau also has the ability to add filters, connect to different
+datasources such as an Excel spreadsheet, text files, and databases.
+
+The visualizations help communicate information in a graphical way instead of looking at a bunch of numbers on spreadsheets.  
+It is very important for the data scientist to provide the story points needed so that stakeholders can make business
+decisions.
+
+
 ## Results
+
+There were 7 Tableau worksheets built (vizzes) that were placed in a single story 
+
+### Checkout Times for Users
+
+Description of results
+
+### Checkout Times by Gender
+
+### Trips by Weekday Per Hour
+
+### Trips By Gender By Weekday
+
+### Trips where start station and end station are the same
+
+### Trips by Age and Gender
+
+### Citibike Sotry
+
+
+
+
+* Check out [NYC Citibike Viz](https://public.tableau.com/app/profile/mae.gaudio/viz/CitiBikeTripAnalysis_16519359960670/TripsbyGender) 
 
 ## Summary
 
-* Check out [NYC Citibike Viz](https://public.tableau.com/app/profile/mae.gaudio/viz/CitiBikeTripAnalysis_16519359960670/TripsbyGender)
+High level summary of results
+
+
